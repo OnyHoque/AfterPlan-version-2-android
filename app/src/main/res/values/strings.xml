@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">After Plan Beta 00</string>
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="App_Activity_State">App Activity State</string>
+    <string name="App_This_PhoneNo">App This Phone No</string>
+    <string name="App_Backup_PhoneNo">App Backup Phone No</string>
+    <string name="App_Password">App Password</string>
+</resources>
